@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'count_bits'
+
+puts count_bits(ARGV[0].to_i)
+
